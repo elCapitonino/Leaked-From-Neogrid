@@ -3,10 +3,10 @@ Source Codes and credentials leaked from neogrid company, an brazilian company. 
 
 Some credentials (shared on a telegram group for all members, but is really valid):
 
-<connectionStrings>
+connectionStrings>
     <add name="DefaultConnection" connectionString="Server=sql-predify-prd-001.database.windows.net,1433;Database=sqldb-multiverso-prd;User Id=back_app_predify;Password=pdT4DB8yFtbS79yjNv!tm;" providerName="System.Data.SqlClient"/>
   </connectionStrings>
-  <appSettings>
+  appSettings>
     <add key="isHomologacao" value="false"/>
     <add key="PagSeguroWSEmail" value="financeiro@predify.me"/>
     <add key="PagSeguroBasicoCodigo" value="9A65AFA56969EE7994206F9692C2DED1"/>
